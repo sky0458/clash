@@ -19,7 +19,9 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,segment.io
 
-
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,us.sentry.io
+DOMAIN-SUFFIX,intercom.io
 
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
