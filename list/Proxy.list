@@ -136,7 +136,7 @@ IP-CIDR,46.3.240.0/24,no-resolve
 IP-CIDR,45.87.172.0/24,no-resolve 
 
 # AI
-DOMAIN,ai.opendoor.cn
+# DOMAIN,ai.opendoor.cn
 
 # 小牛
 # DOMAIN-SUFFIX,xiaoniuyun.cc
@@ -183,7 +183,11 @@ DOMAIN-SUFFIX,filetracker.xyz
 DOMAIN-SUFFIX,altrosky.nl
 DOMAIN-SUFFIX,leech.ie
 
+DOMAIN-SUFFIX,svcloud.one
 
+DOMAIN-SUFFIX,v1.mk
+
+DOMAIN-SUFFIX,eohut.com
 
 
 
